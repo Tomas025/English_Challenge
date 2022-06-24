@@ -30,27 +30,27 @@ body {
 }
 
 .botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-decoration: none;
     margin-right: -72vw;
     margin-top: -4vh;
-    font-size: 35px;
+    font-size: 4vw;
     color: #fff;
-    background-color: #15518A;
-    text-align: center;
+    background-color: #1E1E1C;
     width: 25vh;
     height: 10vh;
     border: 3px solid;
     border-radius: 45px;
-    border-color: #1E1E1C;
     box-shadow: 0 8px 0 #672626;
 }
 
 .botao:hover {
-    background-color: #083763
+    background-color: #111110;
 }
 
 .botao:active {
-    transition: 0;
     position:relative;
     top:8px;
     box-shadow:none;
