@@ -49,11 +49,6 @@ body {
     font-weight: 200;
     color: #fff;
     margin-bottom: 15vh;
-    text-shadow: 
-               -1px -1px 0px #000, 
-               -1px 1px 0px #000,                    
-                1px -1px 0px #000,                  
-                1px 0px 0px #000;
 }
 
 #input {
